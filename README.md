@@ -18,3 +18,4 @@ this table will be updated during time.
 |Gradient|[register](https://app.gradient.network/)|[install](https://chromewebstore.google.com/detail/gradient-sentry-node/caacbgbklghmpodbdafajbgdnegacfmo)|invite code `R32C3T`|
 |Blockmesh|[register](https://app.blockmesh.xyz/register?invite_code=iamshaho)|[install](https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp)||
 |Functor Network|[register](https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm5w75shy7008ny1bppmbplhc)|[install](https://chromewebstore.google.com/detail/functor-node/gahmmgacnfeohncipkjfjfbdlpbfkfhi)|invite code `cm5w75shy7008ny1bppmbplhc`|
+|Toggle|[register](https://toggle.pro/sign-up/69d01cb3-f4b0-440a-98ec-018365c2b4bb)|[install](https://chromewebstore.google.com/detail/toggle-extension/bnkekngmddejlfdeefjilpfdhomeomgb?authuser=0&hl=en)|complete the survey to get extra points|
