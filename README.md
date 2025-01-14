@@ -1,6 +1,7 @@
 # Extension-Nodes
-* If you already have a Linux VPS, you can run extension node by installing Chromium browser: [Install Chromium Browser on Linux VPS](https://github.com/Theshaho/chromium-linux)
-* Or you can buy a cheap server for $5/m from [Hostbrr](https://my.hostbrr.com/order/forms/a/NDczOQ==).also you can install Windows on these servers
+* If you already have a Linux VPS, you can run extension node by installing Chromium browser
+* Chromium installation guide [Install Chromium Browser on Linux VPS](https://github.com/Theshaho/chromium-linux)
+* you can buy a cheap server for $5/m from [Hostbrr](https://my.hostbrr.com/order/forms/a/NDczOQ==).also you can install Windows on these servers
 
 # Extension Node list
 this table will be updated during time.
