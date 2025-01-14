@@ -5,8 +5,8 @@
 # Extension Node list
 this table will be updated during time.
 
-|Node|register|extension on Chrome|description|
-|:----:|:----:|:----:|:----:|
+|Node|Register|Chrome extension|Description|
+|:----|:----:|:----:|:----:|
 |Nodepay|[register](https://app.nodepay.ai/register?ref=QQ51zuerWUH82iS)|[install](https://chromewebstore.google.com/detail/nodepay-extension/lgmpfmgeabnnlemejacfljbmonaomfmm)|you can install Mobile app and also daily check|
 |Grass|[register](https://app.getgrass.io/register/?referralCode=HZNHg3zmPo9MePr)|[install](https://chromewebstore.google.com/detail/grass-lite-node/ilehaonighjijnmpnagapkhpcdbhclfg?hl=en&authuser=0)||
 |DeSpeed|[register](https://app.despeed.net/register?ref=0r5tluk7rRNp)|[install](https://chromewebstore.google.com/detail/despeed-validator/ofpfdpleloialedjbfpocglfggbdpiem)|Daily check and also complete quests|
