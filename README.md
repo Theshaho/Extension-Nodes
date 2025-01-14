@@ -7,4 +7,13 @@ this table will be updated during time.
 
 |Node|register|extension on Chrome|description|
 |:----:|:----:|:----:|:----:|
-|Nodepay|[Link](https://app.nodepay.ai/register?ref=QQ51zuerWUH82iS)|[install](https://chromewebstore.google.com/detail/nodepay-extension/lgmpfmgeabnnlemejacfljbmonaomfmm)|you can install Mobile app and also daily check|
+|Nodepay|[register](https://app.nodepay.ai/register?ref=QQ51zuerWUH82iS)|[install](https://chromewebstore.google.com/detail/nodepay-extension/lgmpfmgeabnnlemejacfljbmonaomfmm)|you can install Mobile app and also daily check|
+|Grass|[register](https://app.getgrass.io/register/?referralCode=HZNHg3zmPo9MePr)|[install](https://chromewebstore.google.com/detail/grass-lite-node/ilehaonighjijnmpnagapkhpcdbhclfg?hl=en&authuser=0)||
+|DeSpeed|[register](https://app.despeed.net/register?ref=0r5tluk7rRNp)|[install](https://chromewebstore.google.com/detail/despeed-validator/ofpfdpleloialedjbfpocglfggbdpiem)|Daily check and also complete quests|
+|Teneo|[register](https://dashboard.teneo.pro/)|[install](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm?authuser=0&hl=en)|invite code `0CH20` |
+|Bless Network (Formerly Blockless)|[register](https://bless.network/dashboard?ref=CP2LPW)|[install](https://chromewebstore.google.com/detail/bless/pljbjcehnhcnofmkdbjolghdcjnmekia)||
+|Pipe Network|[register](https://pipecdn.app/signup?ref=c2hhaG9vYW)|[install](https://chromewebstore.google.com/detail/pipe-guardian-node/gelgmmdfajpefjbiaedgjkpekijhkgbe)||
+|Dawn|no link for register|[install](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp)|invite code `410kck6w`|
+|Gradient|[register](https://app.gradient.network/)|[install](https://chromewebstore.google.com/detail/gradient-sentry-node/caacbgbklghmpodbdafajbgdnegacfmo)|invite code `R32C3T`|
+|Blockmesh|[register](https://app.blockmesh.xyz/register?invite_code=iamshaho)|[install](https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp)||
+|Functor Network|[register](https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm5w75shy7008ny1bppmbplhc)|[install](https://chromewebstore.google.com/detail/functor-node/gahmmgacnfeohncipkjfjfbdlpbfkfhi)|invite code `cm5w75shy7008ny1bppmbplhc`|
