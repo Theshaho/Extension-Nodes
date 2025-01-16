@@ -22,3 +22,5 @@ this table will be updated during time.
 |Hyper space|[register](https://hyper.space/)|[install](https://node.hyper.space/)|use web based node and import your private key|
 |Spark chain|[register](https://sparkchain.ai/register/?r=46655151)|[install](https://chromewebstore.google.com/detail/spark-lite-node/jlpniknnodfkbmbgkjelcailjljlecch)||
 |Voltix|[register]()|[install](https://chromewebstore.google.com/detail/voltix-built-for-ai-speci/dhffhdepkkepbcienheompkncklalogf?authuser=0&hl=en)||
+|Blockcast|[register](https://app.blockcast.network?referral-code=syw0Y4)|install is not ready||
+|Distribute (Oasis)|[register](https://r.distribute.ai/iamshaho)|[install](https://chromewebstore.google.com/detail/distributeai/knhbjeinoabfecakfppapfgdhcpnekmm)||
