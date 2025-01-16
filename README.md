@@ -21,3 +21,4 @@ this table will be updated during time.
 |Toggle|[register](https://toggle.pro/sign-up/69d01cb3-f4b0-440a-98ec-018365c2b4bb)|[install](https://chromewebstore.google.com/detail/toggle-extension/bnkekngmddejlfdeefjilpfdhomeomgb?authuser=0&hl=en)|complete the survey to get extra points|
 |Hyper space|[register](https://hyper.space/)|[install](https://node.hyper.space/)|use web based node and import your private key|
 |Spark chain|[register](https://sparkchain.ai/register/?r=46655151)|[install](https://chromewebstore.google.com/detail/spark-lite-node/jlpniknnodfkbmbgkjelcailjljlecch)||
+|Voltix|[register]()|[install](https://chromewebstore.google.com/detail/voltix-built-for-ai-speci/dhffhdepkkepbcienheompkncklalogf?authuser=0&hl=en)||
