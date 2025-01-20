@@ -24,3 +24,5 @@ this table will be updated during time.
 |Voltix|[register](https://voltix.ai/login?ref=TYYYM)|[install](https://chromewebstore.google.com/detail/voltix-built-for-ai-speci/dhffhdepkkepbcienheompkncklalogf?authuser=0&hl=en)|ivite code `TYYYM`|
 |Blockcast|[register](https://app.blockcast.network?referral-code=syw0Y4)|install is not ready||
 |Distribute (Oasis)|[register](https://r.distribute.ai/iamshaho)|[install](https://chromewebstore.google.com/detail/distributeai/knhbjeinoabfecakfppapfgdhcpnekmm)||
+|Depined|[register](https://app.depined.org/)|[install](https://chromewebstore.google.com/detail/depined/pjlappmodaidbdjhmhifbnnmmkkicjoc)|invite code `tYEuWdSGhCvl`|
+|MyGate|[register](https://app.mygate.network/login?code=9dqWPD)|[install](https://chromewebstore.google.com/detail/mygate-network-node/hajiimgolngmlbglaoheacnejbnnmoco?hl=en&pli=1)||
