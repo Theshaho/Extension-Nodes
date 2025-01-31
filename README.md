@@ -27,3 +27,4 @@ this table will be updated during time.
 |Depined|[register](https://app.depined.org/)|[install](https://chromewebstore.google.com/detail/depined/pjlappmodaidbdjhmhifbnnmmkkicjoc)|invite code `tYEuWdSGhCvl`|
 |MyGate|[register](https://app.mygate.network/login?code=9dqWPD)|[install](https://chromewebstore.google.com/detail/mygate-network-node/hajiimgolngmlbglaoheacnejbnnmoco?hl=en&pli=1)||
 |MinionLab|[register](https://app.minionlab.ai/?referralCode=UyCKZUgh)|[install](https://chromewebstore.google.com/detail/minionlab/fgamijdhamopilihagheoalbifagafka)||
+|Naoris|[register](https://naorisprotocol.network/testnet)|[install](https://chromewebstore.google.com/detail/naoris-protocol-browser-s/cpikalnagknmlfhnilhfelifgbollmmp)|invite code `ALZw5EniOGv3vhBL`  [guide](https://www.naorisprotocol.com/blog/naoris-protocol-post-quantum-depin-testnet-installation-guide)|
