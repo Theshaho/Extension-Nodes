@@ -28,3 +28,4 @@ this table will be updated during time.
 |MyGate|[register](https://app.mygate.network/login?code=9dqWPD)|[install](https://chromewebstore.google.com/detail/mygate-network-node/hajiimgolngmlbglaoheacnejbnnmoco?hl=en&pli=1)||
 |MinionLab|[register](https://app.minionlab.ai/?referralCode=UyCKZUgh)|[install](https://chromewebstore.google.com/detail/minionlab/fgamijdhamopilihagheoalbifagafka)||
 |Naoris|[register](https://naorisprotocol.network/testnet)|[install](https://chromewebstore.google.com/detail/naoris-protocol-browser-s/cpikalnagknmlfhnilhfelifgbollmmp)|invite code `ALZw5EniOGv3vhBL`  [guide](https://www.naorisprotocol.com/blog/naoris-protocol-post-quantum-depin-testnet-installation-guide)|
+|onprover(Monad)|[register](https://onprover.orochi.network/?referralCode=a6Fn_iamshaho)|[install](https://onprover.orochi.network/?referralCode=a6Fn_iamshaho)||
